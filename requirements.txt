@@ -1,0 +1,8 @@
+requests
+pandas
+nltk
+spacy
+vaderSentiment
+transformers
+torch
+streamlit
